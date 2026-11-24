@@ -2,7 +2,7 @@
 
 Aplicación web **SaaS multiinquilino** con **control de acceso por roles (RBAC)** para pequeños negocios que atienden por citas, como centros médicos. Cada negocio gestiona sus clientes, empleados, servicios, jornadas y citas, sin ver los datos de otros negocios.
 
-> Proyecto académico — Ingeniería Web Avanzada, Universidad Continental.
+> Proyecto académico — Ingeniería Web , Universidad Continental.
 
 ## Índice
 
