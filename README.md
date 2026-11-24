@@ -87,8 +87,8 @@ Se configuran en `server/.env` (usa `server/.env.example` como plantilla). **Nun
 | Variable | Descripción | Ejemplo |
 |---|---|---|
 | `PORT` | Puerto de la API | `4000` |
-| `MONGO_URI` | Conexión a la base de datos principal | `mongodb+srv://USUARIO:CLAVE@cluster.mongodb.net/reservas` |
-| `MONGO_URI_TEST` | Conexión a la base usada por las pruebas (se limpia en cada prueba) | `mongodb+srv://USUARIO:CLAVE@cluster.mongodb.net/reservas_test` |
+| `MONGO_URI` | Conexión a la base de datos principal | `<cadena-de-conexion-de-atlas>/reservas` |
+| `MONGO_URI_TEST` | Conexión a la base usada por las pruebas (se limpia en cada prueba) | `<cadena-de-conexion-de-atlas>/reservas_test` |
 | `JWT_SECRET` | Clave para firmar los tokens | una cadena larga y secreta |
 | `JWT_EXPIRES` | Duración del token | `8h` |
 | `CORS_ORIGIN` | Origen permitido del cliente | `http://localhost:5173` |
